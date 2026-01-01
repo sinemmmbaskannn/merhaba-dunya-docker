@@ -1,0 +1,14 @@
+# Docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Node / Python (olur da eklenirse)
+node_modules/
+__pycache__/
